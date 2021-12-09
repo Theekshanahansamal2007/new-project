@@ -8,4 +8,4 @@
 
 <table>
 
-<p align="center"><a href="https://t.me/RavinduManoj"><img src="https://img.shields.io/badge/Contact%20Me%20On%20Telegrame-Theekshana%20Hansamal-success">
+<p align="center"><a href="https://t.me/TheekshanaHansamal"><img src="https://img.shields.io/badge/Contact%20Me%20On%20Telegrame-Theekshana%20Hansamal-success">
