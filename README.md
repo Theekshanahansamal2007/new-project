@@ -10,3 +10,20 @@
 
 <p align="center"><a href="https://t.me/TheekshanaHansamal"><img src="https://img.shields.io/badge/Contact%20Me%20On%20Telegrame-Theekshana%20Hansamal-success">
 <a href="https://wa.me/94741844543"><img src="https://img.shields.io/badge/Contact%20Me%20On%20Whatsapp-Theekshana%20Hansamal-success"><a href="https://chat.whatsapp.com/BS2nvkbrVPLBS95vNFO7Va"><img src="https://img.shields.io/badge/Whatsapp%20Group%20On%20Whatsapp-Theekshana%20Hansamal-success">
+```
+  ⠀⠀⠀⣀⣴⣶⠾⠿⠿⣶⣦⣄⠀⠀⠀
+
+⠀⢠⣾⠟⠉⠀⠀⠀⠀⠀⠈⠻⣷⡄⠀
+
+⢠⣿⠃⠀⣴⣶⠀⠀⠀⠀⠀⠀⠈⢿⡆
+
+⣼⡇⠀⠀⣿⣿⠁⠀⠀⠀⠀⠀⠀⢸⣿
+
+⢻⡇⠀⠀⠈⢻⣦⣀⢀⣤⣄⠀⠀⢸⣿
+
+⠘⣿⡄⠀⠀⠀⠈⠻⠿⣿⠿⠀⢀⣾⠇
+
+⠀⣿⠃⣀⡀⠀⠀⠀⠀⠀⢀⣴⡿⠃⠀
+
+⣸⠿⠟⠛⠻⠿⣶⣶⣶⠿⠟⠋⠀
+```
