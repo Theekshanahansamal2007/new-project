@@ -12,6 +12,6 @@
 
   <p align="center"><a href="https://wa.me/94741844543"><img src="https://img.shields.io/badge/Contact%20Me%20On%20Whatsapp-Theekshana%20Hansamal-success">
 
-    <p align="center"><a href="https://chat.whatsapp.com/BS2nvkbrVPLBS95vNFO7Va"><img src="https://img.shields.io/badge/Whatsapp group%20🔊🎧🔊🅒🅗🅐🅣 & 🅜🅤🅢🅘🅒 & 🅑🅞🅣 🅖🅡🅞🅤🅟🔊🎧🔊%20On%20Whatsapp-Theekshana%20Hansamal-success">
+ <p align="center"><a href="https://chat.whatsapp.com/BS2nvkbrVPLBS95vNFO7Va"><img src="https://img.shields.io/badge/Whatsapp group%20🔊🎧🔊🅒🅗🅐🅣 & 🅜🅤🅢🅘🅒 & 🅑🅞🅣 🅖🅡🅞🅤🅟🔊🎧🔊%20On%20Whatsapp-Theekshana%20Hansamal-success">
 
 
