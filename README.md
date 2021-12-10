@@ -12,6 +12,6 @@
 ## my whatsapp number
   <p align="center"><a href="https://wa.me/94741844543"><img src="https://img.shields.io/badge/Contact%20Me%20On%20Whatsapp-Theekshana%20Hansamal-success">
 ## my whatsapp group 
-    <p align="center"><a href="https://chat.whatsapp.com/BS2nvkbrVPLBS95vNFO7Va"><img src="https://img.shields.io/badge/Whatsapp%20Group%20On%20Whatsapp-Theekshana%20Hansamal?color=00ff00&label-success">
+    <p align="center"><a href="https://chat.whatsapp.com/BS2nvkbrVPLBS95vNFO7Va"><img src="https://img.shields.io/badge/Whatsapp%20Group%6%20On%20Whatsapp-Theekshana%20Hansamal?color=00ff00&label-success">
 
 
