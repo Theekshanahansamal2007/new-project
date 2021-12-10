@@ -16,4 +16,4 @@
 
 
 <p align="center"><a href="https://chat.whatsapp.com/FepuB1HUcgq18nIXQBcH8I"><img src="https://img.shields.io/badge/Whatsapp group%20SJKMV%20On%20Whatsapp-SJKMV%20KURUNAGALA-success"></a></div>
-<p align="center"><a href="httsp://github.com/ravindu01manoj/Sew-Queen"><img src="https://img.shields.io/docker/pulls/ravindu01manoj/sewqueen?style=for-the-badge&logo=docker&label=Docker+Pulls&color=blueviolet">
+<p align="center"><a href="https://github.com/Theekshanahansamal2007/new-project.git"><img src="https://img.shields.io/docker/pulls/ravindu01manoj/sewqueen?style=for-the-badge&logo=docker&label=Docker+Pulls&color=blueviolet">
