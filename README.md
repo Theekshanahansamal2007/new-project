@@ -15,4 +15,4 @@
  <p align="center"><a href="https://chat.whatsapp.com/BS2nvkbrVPLBS95vNFO7Va"><img src="https://img.shields.io/badge/Whatsapp group%20🔊🎧🔊🅒🅗🅐🅣 & 🅜🅤🅢🅘🅒 & 🅑🅞🅣 🅖🅡🅞🅤🅟🔊🎧🔊%20On%20Whatsapp-Theekshana%20Hansamal2007-success"></a></div>
 
 
-<p align="center"><a href="https://chat.whatsapp.com/FepuB1HUcgq18nIXQBcH8I"><img src="https://img.shields.io/badge/Whatsapp group%20🔊🎧🔊🅒🅗🅐🅣 & 🅜🅤🅢🅘🅒 & 🅑🅞🅣 🅖🅡🅞🅤🅟🔊🎧🔊%20On%20Whatsapp-Theekshana%20Hansamal2007-success"></a></div>
+<p align="center"><a href="https://chat.whatsapp.com/FepuB1HUcgq18nIXQBcH8I"><img src="https://img.shields.io/badge/Whatsapp group%20SJKMV%20On%20Whatsapp-SJKMV%20KURUNAGALA-success"></a></div>
