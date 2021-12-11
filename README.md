@@ -10,7 +10,7 @@
 
 <table><p align="center"><a href="https://t.me/TheekshanaHansamal"><img src="https://img.shields.io/badge/My%20telegram%20number%20-0741844543-ff69b4">
   <p align="center"><a href="https://wa.me/94741844543"><img src="https://img.shields.io/badge/My%20whatsapp%20number%20%F0%9F%A5%8F-0741844543-brightgreen">
-  <p align="center"><a href="https://wa.me/94716626084"><img src="https://img.shields.io/badge/Contact%20Me%20On%20Whatsapp-Theekshana%20Hansamal-success">
+  <p align="center"><a href="https://wa.me/94716626084"><img src="https://img.shields.io/badge/My%20whatsapp%20number%20-0716626084-brightgreen">
  <p align="center"><a href="https://chat.whatsapp.com/BS2nvkbrVPLBS95vNFO7Va"><img src="https://img.shields.io/badge/Whatsapp group%20🔊🎧🔊🅒🅗🅐🅣 & 🅜🅤🅢🅘🅒 & 🅑🅞🅣 🅖🅡🅞🅤🅟🔊🎧🔊%20On%20Whatsapp-Theekshana%20Hansamal2007-success"></a></div>
 
 
