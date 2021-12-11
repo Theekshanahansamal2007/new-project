@@ -18,5 +18,5 @@
 <p align="center"><a href="https://chat.whatsapp.com/FepuB1HUcgq18nIXQBcH8I"><img src="https://img.shields.io/badge/Whatsapp group%20SJKMV%20On%20Whatsapp-SJKMV%20KURUNAGALA-success"></a></div>
 <p align="center">
 
-<p align="center"><a href="https://wa.me/071662608https://chat.whatsapp.com/">img src="https://img.shields.io/badge/I%20am%20srilanka-%F0%9F%87%B1%F0%9F%87%B0%F0%9F%87%B1%F0%9F%87%B0%F0%9F%87%B1%F0%9F%87%B0-orange">
+<p align="center"><a href="https://wa.me/0716626084">img src="https://img.shields.io/badge/I%20am%20srilanka-%F0%9F%87%B1%F0%9F%87%B0%F0%9F%87%B1%F0%9F%87%B0%F0%9F%87%B1%F0%9F%87%B0-orange">
 
