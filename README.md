@@ -16,4 +16,6 @@
 
 
 <p align="center"><a href="https://chat.whatsapp.com/FepuB1HUcgq18nIXQBcH8I"><img src="https://img.shields.io/badge/Whatsapp group%20SJKMV%20On%20Whatsapp-SJKMV%20KURUNAGALA-success"></a></div>
-<p align="center"><a href="https://github.com/Theekshanahansamal2007/new-project.git"><img src="https://img.shields.io/badge/Whatsapp%20-0741844543-brightgreen">
+<p align="center"><a href="https://github.com/Theekshanahansamal2007/new-project.git"><img src="/github/watchers/:https://github.com/Theekshanahansamal2007/new-project.git/:repo?label">
+
+">
