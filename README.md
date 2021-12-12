@@ -19,4 +19,4 @@
 
 <table><a href="https://github.com/Theekshanahansamal2007/theekshana-hansamal.git"><img src="https://i.ibb.co/1JPW0RG/Snapchat-1206413278.jpg" width="400" alt="Theekshana Hansamal"><a href="https://github.com/Theekshanahansamal2007/theekshana-hansamal.git"><img src="https://i.ibb.co/GWnzNFX/Snapchat-1585153826.jpg" width="400" alt="Theekshana Hansamal">
 
-<table><p align="center"><a href="https://github.com/Theekshanahansamal2007/new-project.git"><img src="">
+<table><p align="center"><a href="https://github.com/Theekshanahansamal2007/new-project.git"><img src="![Profile views](https://gpvc.arturio.dev/[https://github.com/Theekshanahansamal2007/new-project.git])">
