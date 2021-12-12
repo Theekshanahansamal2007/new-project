@@ -19,4 +19,4 @@
 
 <table><a href="https://github.com/Theekshanahansamal2007/theekshana-hansamal.git"><img src="https://i.ibb.co/1JPW0RG/Snapchat-1206413278.jpg" width="400" alt="Theekshana Hansamal"><a href="https://github.com/Theekshanahansamal2007/theekshana-hansamal.git"><img src="https://i.ibb.co/GWnzNFX/Snapchat-1585153826.jpg" width="400" alt="Theekshana Hansamal">
 
-<table><p align="center"><a href="https://github.com/Theekshanahansamal2007/new-project.git"><img src="https://camo.githubusercontent.com/d95eddad805cb74b43b5668d34fbeec8caa5862e3d586ebcdb5cb789b50029b0/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d50726f66696c652b7669657773266d6573736167653d3133333333326636f6c6f723d627269676874677265656e">
+<table><p align="center"><a href="https://github.com/Theekshanahansamal2007/new-project.git"><img src="">
