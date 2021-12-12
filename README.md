@@ -7,7 +7,8 @@
 
 
 
-<table><p align="center"><a href="https://t.me/TheekshanaHansamal"><img src="https://img.shields.io/badge/My%20telegram%20number%20-0741844543-ff69b4"><table><a href="https://t.me/TheekshanaHansamal"><img src="https://i.ibb.co/Nsgn6S5/IMG-20211212-WA0061.jpg" width="180" alt="Theekshana Hansamal">
+<table><p align="center"><a href="https://t.me/TheekshanaHansamal"><img src="https://img.shields.io/badge/My%20telegram%20number%20-0741844543-ff69b4">
+  <table><a href="https://t.me/TheekshanaHansamal"><img src="https://i.ibb.co/Nsgn6S5/IMG-20211212-WA0061.jpg" width="180" alt="Theekshana Hansamal">
 <table><p align="center"><a href="https://wa.me/94741844543"><img src="https://img.shields.io/badge/My%20whatsapp%20number%20-0741844543-brightgreen">
 <table><p align="center"><a href="https://wa.me/94741844543"><img src="https://i.ibb.co/zhQCZ5s/IMG-20211212-WA0065.jpg" width="180" alt="Theekshana Hansamal">
 
