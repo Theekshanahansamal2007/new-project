@@ -21,10 +21,12 @@
 
 
 <p align="center"><a href="https://chat.whatsapp.com/FepuB1HUcgq18nIXQBcH8I"><img src="https://img.shields.io/badge/School%20whatsapp%20group%20-9--E%20Kothalawala%202021-blue"></a></div>
-<p align="center">
+
+<p align="center"><a href="https://chat.whatsapp.com/FepuB1HUcgq18nIXQBcH8I"><img src="https://i.ibb.co/r7MxN3z/IMG-20211212-WA0081.jpg"></a></div>
 
 
-<table><a href="https://github.com/Theekshanahansamal2007/theekshana-hansamal.git"><img src="https://i.ibb.co/1JPW0RG/Snapchat-1206413278.jpg" width="400" alt="Theekshana Hansamal">
+
+<table><p align="center"><a href="https://github.com/Theekshanahansamal2007/theekshana-hansamal.git"><img src="https://i.ibb.co/1JPW0RG/Snapchat-1206413278.jpg" width="400" alt="Theekshana Hansamal">
 
 <table><p align="center"><a href="https://wa.me/94741844543"><img src="https://img.shields.io/badge/My%20whatsapp%20number%20-0716626084-brightgreen">
 
