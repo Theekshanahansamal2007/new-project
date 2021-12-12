@@ -2,7 +2,7 @@
 ### my self 
 
 
-![This is an image](https://kapwi.ng/c/N8GPDuvytJ)
+![This is an image](https://kapwi.ng/c/N8GPDuvytJ/spg)
 
 
 
