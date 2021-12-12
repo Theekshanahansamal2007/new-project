@@ -22,7 +22,7 @@
 
 <p align="center"><a href="https://chat.whatsapp.com/FepuB1HUcgq18nIXQBcH8I"><img src="https://img.shields.io/badge/School%20whatsapp%20group%20-9--E%20Kothalawala%202021-blue"></a></div>
 
-<p align="center"><a href="https://chat.whatsapp.com/FepuB1HUcgq18nIXQBcH8I"><img src="https://i.ibb.co/r7MxN3z/IMG-20211212-WA0081.jpg"></a></div>
+<p align="center"><a href="https://chat.whatsapp.com/FepuB1HUcgq18nIXQBcH8I"><img src="https://i.ibb.co/r7MxN3z/IMG-20211212-WA0081.jpg" width="280" alt="Theekshana Hansamal"></a></div>
 
 
 
