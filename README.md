@@ -31,5 +31,5 @@
 <table><p align="center"><a href="https://wa.me/94772284540"><img src="https://img.shields.io/badge/My%20whatsapp%20number%20-0772284540-brightgreen">
 
  
-<table><p align=![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
