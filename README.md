@@ -4,7 +4,7 @@
 
 
 
-<table><p align="center"><a href="[![HitCount](http://hits.dwyl.com/Theekshanahansamal2007/new-project.svg?style=flat-square)](http://hits.dwyl.com/Theekshanahansamal2007/new-project)">
+<table>[![HitCount](http://hits.dwyl.com/Theekshanahansamal2007/new-project.svg?style=flat-square)](http://hits.dwyl.com/Theekshanahansamal2007/new-project)">
 
 
 <table><p align="center"><a href="https://t.me/TheekshanaHansamal"><img src="https://img.shields.io/badge/My%20telegram%20number%20-0741844543-ff69b4">
