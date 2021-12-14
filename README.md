@@ -10,7 +10,7 @@
 <table><p align="center"><a href="https://t.me/TheekshanaHansamal"><img src="https://img.shields.io/badge/My%20telegram%20number%20-0741844543-ff69b4">
 <p align="center"><a href="https://t.me/TheekshanaHansamal"><img src="https://i.ibb.co/Nsgn6S5/IMG-20211212-WA0061.jpg" width="580" alt="Theekshana Hansamal"></a></div>
 
- ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+ ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)උඩ තියෙන්නේ telegram number එක
 <table><p align="center"><a href="https://wa.me/94741844543"><img src="https://img.shields.io/badge/My%20whatsapp%20number%20-0741844543-brightgreen">
 <p align="center"><a href="https://wa.me/94741844543"><img src="https://i.ibb.co/zhQCZ5s/IMG-20211212-WA0065.jpg" width="580" alt="Theekshana Hansamal"></a></div>
 
@@ -31,6 +31,7 @@
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
 <table><p align="center"><a href="https://chat.whatsapp.com/BS2nvkbrVPLBS95vNFO7Va"><img src="https://i.ibb.co/1JPW0RG/Snapchat-1206413278.jpg" width="380" alt="Theekshana Hansamal">
+
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 <table><p align="center"><a href="https://wa.me/94772284540"><img src="https://img.shields.io/badge/My%20whatsapp%20number%20-0772284540-brightgreen">
 
