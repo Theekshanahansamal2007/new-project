@@ -5,7 +5,7 @@
 [![HitCount](http://hits.dwyl.com/Theekshanahansamal2007/new-project.svg?style=flat-square)](http://hits.dwyl.com/Theekshanahansamal2007/new-project)❤
 [![HitCount](http://hits.dwyl.com/Theekshanahansamal2007/new-project.svg?style=flat-square)](http://hits.dwyl.com/Theekshanahansamal2007/new-project)❤
 [![HitCount](http://hits.dwyl.com/Theekshanahansamal2007/new-project.svg?style=flat-square)](http://hits.dwyl.com/Theekshanahansamal2007/new-project)❤
-👇👇👇යට තියෙන්නේ telegram number එක. ඒක ටච් කරපු ගමන් මගේ telegram එකට යනවා👇👇👇
+<table>👇👇👇යට තියෙන්නේ telegram number එක. ඒක ටච් කරපු ගමන් මගේ telegram එකට යනවා👇👇👇
 
 <table><p align="center"><a href="https://t.me/TheekshanaHansamal"><img src="https://img.shields.io/badge/My%20telegram%20number%20-0741844543-ff69b4">
 <p align="center"><a href="https://t.me/TheekshanaHansamal"><img src="https://i.ibb.co/Nsgn6S5/IMG-20211212-WA0061.jpg" width="580" alt="Theekshana Hansamal"></a></div>
