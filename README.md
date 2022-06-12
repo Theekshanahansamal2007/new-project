@@ -14,7 +14,7 @@
 <table><p align="center"><a href="https://t.me/TheekshanaHansamal"><img src="https://img.shields.io/badge/My%20telegram%20number%20-0741844543-ff69b4">
 <p align="center"><a href="https://t.me/TheekshanaHansamal"><img src="https://i.ibb.co/Nsgn6S5/IMG-20211212-WA0061.jpg" width="580" alt="Theekshana Hansamal"></a></div>
 
- ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+ ![This is an image](https://i.ibb.co/7J4LvR8/IMG-20220530-WA0001.jpg)
 <table>👇👇👇යට තියෙන්නේ whatsapp number එක. ඒක ටච් කරපු ගමන් මගේ whatsapp inbox එකට යනවා👇👇👇
 
 
