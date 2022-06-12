@@ -7,7 +7,7 @@
 [![HitCount](http://hits.dwyl.com/Theekshanahansamal2007/new-project.svg?style=flat-square)](http://hits.dwyl.com/Theekshanahansamal2007/new-project)❤
 [![HitCount](http://hits.dwyl.com/Theekshanahansamal2007/new-project.svg?style=flat-square)](http://hits.dwyl.com/Theekshanahansamal2007/new-project)❤
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an image](😎)
 
 <table>👇👇👇යට තියෙන්නේ telegram number එක. ඒක ටච් කරපු ගමන් මගේ telegram inbox එකට යනවා👇👇👇
 
