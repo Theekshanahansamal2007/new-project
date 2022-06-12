@@ -1,3 +1,4 @@
+![IMG_20220612_135442_031](https://user-images.githubusercontent.com/94382409/173247288-2e6fbddc-2de1-4e5c-9d5e-c0cba4fee9fe.jpg)
 ![kmc_20211126_111817](https://user-images.githubusercontent.com/94382409/165707929-76501beb-f647-4ebc-b7a1-3d8adaa5b829.jpg)
 
 ### my self 
